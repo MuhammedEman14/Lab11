@@ -5,7 +5,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Checkout code from GitHub repository
-                git 'https://github.com/aditya-sridhar/simple-reactjs-app'
+                git 'https://github.com/MuhammedEman14/Lab11'
             }
         }
         
